@@ -1,5 +1,15 @@
 # CoderCars Backend
 
+# Questions for TA
+
+1. Why the release_date does not show the year of data but showing 1970 ?
+2. What is next() ? Normally the API can work without it, why we need to have it ?
+3. What is hard/soft delete?
+4. Why the backend port is 8888, front end port cannot be 3000 and it said the port 3000 is already in use?
+5. What is the benefit of setting mongoose.debug("true"). If it's true, where we can see it?
+6. Port question in file app.js
+7. The pagination should be implemented in BE or FE?
+
 ## Instructions
 
 1. Clone the branch `template`.
